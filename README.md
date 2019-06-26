@@ -9,7 +9,23 @@ Rendition 是web版本的MySQL数据库工单审核平台，旨在降低DBA的�
 - Python 3.6
 - Django 2.0
 
-  
+## 环境说明
+
+- Python  是一种面向对象、解释型计算机程序设计语言，由Guido van Rossum于1989年底发明，第一个公开发行版发行于1991年。Python语法简洁而清晰，具有丰富和强大的类库。
+- Django 是一个开放源代码的Web应用框架，由Python写成。采用了MVC的软件设计模式，即模型M，视图V和控制器C。它最初是被开发来用于管理劳伦斯出版集团旗下的一些以新闻内容为主的网站的，即是CMS（内容管理系统）软件。
+
+```
+Django rest framework介绍
+Django REST framework 是用于构建Web API 的强大而灵活的工具包。
+我们可能想使用REST框架的一些原因:
+Web浏览API对于开发人员来说是一个巨大的可用性。
+认证策略包括OAuth1a和OAuth2的包。
+支持ORM和非ORM数据源的序列化。
+如果你不需要更强大的功能，就可以使用常规的基于功能的视图。
+广泛的文档和良好的社区支持。
+包括Mozilla、Red Hat、Heroku和Eventbrite在内的国际知名公司使用和信任。
+```
+
 ## 功能
 - 自定义环境
   - 可以根据公司业务需求，定义多个环境，比如：测试环境、预发布环境、生产环境等
